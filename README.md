@@ -1,2 +1,2 @@
 # Python-UE4SvnCommitHook
-svn commit hook for ue4 project
+大家提交的UE4项目非常混乱，所以写了个hook来强迫项目组成员根据规则来提交代码
